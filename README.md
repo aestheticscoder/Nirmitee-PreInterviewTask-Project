@@ -71,5 +71,3 @@ Contributions are welcome! If you find a bug or want to add a new feature, feel 
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use, modify, and distribute it as per the terms of the license.
 
-
-Please make sure to customize this README with accurate information about your project, such as repository links, installation instructions, and API documentation. Add additional sections or information as needed to suit your project's specific requirements.
